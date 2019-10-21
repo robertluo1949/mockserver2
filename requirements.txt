@@ -3,7 +3,7 @@ itsdangerous==0.24
 Jinja2==2.10
 MarkupSafe==1.0
 requests==2.18.4
-Werkzeug==0.14.1
+Werkzeug==0.15.3
 pip==9.0.1
 urllib3==1.22
 setuptools==28.8.0
